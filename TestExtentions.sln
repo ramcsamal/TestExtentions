@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestExtentions.Common", "TestExtentions.Common\TestExtentions.Common.csproj", "{0B572F58-1683-4CA5-8A1D-965E6546B795}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestExtentions.Validations", "TestExtentions.Validations\TestExtentions.Validations.csproj", "{35ED9123-9709-4D93-B026-AF306EC10253}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestExtentions.Tests", "TestExtentions.Tests\TestExtentions.Tests.csproj", "{8EDF4429-251A-416D-BB68-93F227191BCF}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Nuget_Release|Any CPU = Nuget_Release|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B572F58-1683-4CA5-8A1D-965E6546B795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B572F58-1683-4CA5-8A1D-965E6546B795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B572F58-1683-4CA5-8A1D-965E6546B795}.Nuget_Release|Any CPU.ActiveCfg = Nuget_Release|Any CPU
+		{0B572F58-1683-4CA5-8A1D-965E6546B795}.Nuget_Release|Any CPU.Build.0 = Nuget_Release|Any CPU
+		{0B572F58-1683-4CA5-8A1D-965E6546B795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B572F58-1683-4CA5-8A1D-965E6546B795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35ED9123-9709-4D93-B026-AF306EC10253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35ED9123-9709-4D93-B026-AF306EC10253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35ED9123-9709-4D93-B026-AF306EC10253}.Nuget_Release|Any CPU.ActiveCfg = Nuget_Release|Any CPU
+		{35ED9123-9709-4D93-B026-AF306EC10253}.Nuget_Release|Any CPU.Build.0 = Nuget_Release|Any CPU
+		{35ED9123-9709-4D93-B026-AF306EC10253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35ED9123-9709-4D93-B026-AF306EC10253}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Nuget_Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Nuget_Release|Any CPU.Build.0 = Release|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EE11407-E204-4718-9F0C-9D0D6093312A}
+	EndGlobalSection
+EndGlobal
